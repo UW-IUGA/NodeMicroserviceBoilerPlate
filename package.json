@@ -1,0 +1,28 @@
+{
+  "name": "iuga-nodemicroservice",
+  "version": "1.0.0",
+  "description": "Boiler plate for a node microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UW-IUGA/NodeMicroserviceBoilerPlate.git"
+  },
+  "keywords": [
+    "node",
+    "microservice",
+    "iuga"
+  ],
+  "author": "Brendan Kellogg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UW-IUGA/NodeMicroserviceBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/UW-IUGA/NodeMicroserviceBoilerPlate#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "morgan": "^1.8.2"
+  }
+}
